@@ -1,0 +1,27 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+    color: cornflowerblue;
+    background-color: orchid;
+    overflow: hidden;
+
+}
+
+
+
+
+#sexy {
+    font-size: 6rem;
+    letter-spacing: -2px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+
+}
